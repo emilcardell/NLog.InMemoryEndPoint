@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.InMemoryEndPoint.Nancy", "Source\NLog.InMemoryEndPoint.Nancy\NLog.InMemoryEndPoint.Nancy.csproj", "{AC2BEB13-A494-4FD1-98E2-4059C76AF58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.InMemoryEndPoint.Nancy.Demo", "Source\NLog.InMemoryEndPoint.Nancy.Demo\NLog.InMemoryEndPoint.Nancy.Demo.csproj", "{05743828-99C6-45C2-AF85-BF0D196C61E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05743828-99C6-45C2-AF85-BF0D196C61E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05743828-99C6-45C2-AF85-BF0D196C61E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05743828-99C6-45C2-AF85-BF0D196C61E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05743828-99C6-45C2-AF85-BF0D196C61E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2BEB13-A494-4FD1-98E2-4059C76AF58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2BEB13-A494-4FD1-98E2-4059C76AF58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2BEB13-A494-4FD1-98E2-4059C76AF58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2BEB13-A494-4FD1-98E2-4059C76AF58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
